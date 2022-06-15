@@ -1,0 +1,7 @@
+#ignore files called .class, .java. .project
+.class
+.java
+.project
+
+#ignore folders called node_modules
+/node_modules
